@@ -21,6 +21,8 @@
 🔥 Giving up is never in my code.
 
 ---
+<img src="https://raw.githubusercontent.com/diasbiasaaja/diasbiasaaja/output/snake.svg" alt="Snake animation" />
+
 
 
 
