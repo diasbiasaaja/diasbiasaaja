@@ -5,8 +5,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,js,vscode&theme=dark)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<p >
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
 
 
 #### Connect whit me
@@ -16,8 +19,10 @@
   </a>
 
 ---
-🌱 Currently growing and greening my GitHub
-⚡ Whatever the road, I’ll take it
+🌱 Currently growing and greening my GitHub  
+
+⚡ Whatever the road, I’ll take it  
+
 🔥 Giving up is never in my code.
 
 ---
