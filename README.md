@@ -3,7 +3,7 @@
 ---
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,cpp,js,vscode&theme=dark)](https://skillicons.dev)
+[![My_Skills](https://skillicons.dev/icons?i=html,css,php,cpp,js,vscode,flutter,laravel&theme=dark)](https://skillicons.dev)
 
 <p >
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
